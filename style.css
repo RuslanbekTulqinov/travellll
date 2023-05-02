@@ -1,0 +1,33 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    text-transform: uppercase;
+    font-size: 4rem;
+    border: 10px solid blue;
+    padding: 12px;
+}
+p{
+    text-transform: uppercase;
+    font-size: 2rem;
+    border: 10px solid green;
+    padding: 0;
+
+
+}
+.Ruslanbek {
+    color: black;
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.RuslanbekTulqinov {
+    width: 50%;
+    border: 10px solid red;
+}
+.Kursdoshlar {
+    width: 40%;
+    border: 10px solid yellow;
+}
